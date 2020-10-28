@@ -8,7 +8,7 @@ jobs:
     steps:
     - uses: bcanseco/github-contribution-graph-action@v2
       env:
-        GITHUB_TOKEN: ${{ fafefdb336f443b015919fa0369810c8db1bfad3 }}
+        GITHUB_TOKEN: fafefdb336f443b015919fa0369810c8db1bfad3
         GIT_EMAIL: rautalankaco@gmail.com
         MAX_DAYS: 365
         MIN_COMMITS_PER_DAY: 1
